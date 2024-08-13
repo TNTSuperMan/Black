@@ -27,7 +27,7 @@ div{
     color:#555;
     opacity: 0.2;
     padding:30px;
-    transition:all 0.4s ease;
+    transition:all 1s ease;
 }
 div:hover{
     opacity:1;

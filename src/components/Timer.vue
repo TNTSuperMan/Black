@@ -44,14 +44,15 @@ div{
     opacity:0.2;
     transition:all 1s ease;
     padding:30px;
+    color:#555;
 }
 div:hover{
     opacity:1;
 }
 button{
-    background:#00000000;
-    color:#fff;
-    border:1px #fff solid;
+    background:#000;
+    color:#555;
+    border:1px #555 solid;
     padding:7px;
     border-radius: 10px;
     font-size:15px;
@@ -59,6 +60,6 @@ button{
     margin:5px;
 }
 button:hover{
-    background:#444444;
+    background:#111;
 }
 </style>

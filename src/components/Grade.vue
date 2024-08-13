@@ -27,9 +27,9 @@ onUnmounted(()=>clearInterval(intid))
 </template>
 <style scoped>
 div{
-    background:radial-gradient(rgba(255,255,255,0.1),rgba(0,0,0,0) 70%,rgba(0,0,0,0) 100%);
-    width: 200px;
-    height:200px;
+    background:radial-gradient(rgba(255,255,255,0.07),rgba(0,0,0,0) 70%,rgba(0,0,0,0) 100%);
+    width: 250px;
+    height:250px;
     position:fixed;
     z-index: -2;
 }
